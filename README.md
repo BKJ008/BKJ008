@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... evolution in nature
 - 🌱 I’m currently learning ... DevOps
 - 💞️ I’m looking to collaborate on ... common stuff
-- 📫 How to reach me ... Kenneth.johansson@chasacademy.se 
+- 📫 How to reach me ... kenneth.johansson@chasacademy.se 
 - 😄 Pronouns: ... he
 - ⚡ Fun fact: ... we are here.
 
